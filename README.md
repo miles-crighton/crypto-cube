@@ -10,6 +10,7 @@ and here's a random sample of rotations:
 0, 1, 2 or 3 are the numbers of the cubes, U, L R D are the rotation directions
 (Up, Left, Right, Down). Cube rotations are comma-separated. Each cube can have
 multiple rotations, separated by colons.
+
 Code Summary:
 > Uses a Cube class to simulate each cube and its rotations
 > Uses a CubeHandler to run higher level formatting and generate Cubes
