@@ -16,5 +16,4 @@ Code Summary:
 - Uses a CubeHandler to run higher level formatting and generate Cubes
 - Runs infinite input loop for user to encrypt/decrypt words
 
-02.07.18
-Miles Crighton
+02.07.18, Miles Crighton
